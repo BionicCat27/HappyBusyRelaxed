@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#contentContainer {
+    margin-top: 20vh;
+}
+
+.btn-container {
+    margin-bottom: 1em;
+}
